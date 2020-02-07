@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SkolSerifa';
+    src: url('SkolSerifa.eot');
+    src: url('SkolSerifa.eot?#iefix') format('embedded-opentype'),
+        url('SkolSerifa.woff') format('woff'),
+        url('SkolSerifa.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
